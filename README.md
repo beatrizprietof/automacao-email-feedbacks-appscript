@@ -13,7 +13,7 @@
 
 ## 🛠️ Tecnologias & Ferramentas
 
-* **Linguagem & Backend:** [Google Apps Script](https://developers.google.com/apps-script) (JavaScript Server-Side)
+* **Linguagem & Backend:** [Google Apps Script](Code.gs) (JavaScript Server-Side)
 * **Serviços Google:** `SpreadsheetApp`, `MailApp`, `Utilities` (Formatador de Datas)
 * **Design de E-mail:** HTML5 inline CSS, UI Cards, Botões de Chamada para Ação (CTAs)
 * **Automação:** Gatilhos acionados por tempo (*Time-Driven Triggers / Cron*)
