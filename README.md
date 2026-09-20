@@ -23,7 +23,7 @@
 ## 🖼️ Demonstração Visual
 
 ### E-mail de Relatório Recebido na Caixa de Entrada
-![Demonstrativo do E-mail Recebido](<img width="391" height="304" alt="e-mail automático_feedback consolidado" src="https://github.com/user-attachments/assets/97a1d4b5-ddc1-48e8-8032-3c0642716e0a" />
+![Demonstrativo do E-mail Recebido](<img width="704" height="337" alt="alerta_chat_automático" src="https://github.com/user-attachments/assets/77d3f4ce-cda2-4e1a-9da3-7077556e554f" />
 )
 
 ---
