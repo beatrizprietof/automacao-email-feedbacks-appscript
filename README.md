@@ -23,7 +23,7 @@
 ## 🖼️ Demonstração Visual
 
 ### E-mail de Relatório Recebido na Caixa de Entrada
-![Demonstrativo do E-mail Recebido](![E-mail de Relatório](chat.png))
+![Demonstrativo do E-mail Recebido](![E-mail de Relatório](email.png))
 
 ---
 
