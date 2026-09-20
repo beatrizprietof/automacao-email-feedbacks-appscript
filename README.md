@@ -1,4 +1,4 @@
-# Automação de Notificação Semanal de Feedbacks (Google Apps Script)
+# Automação de Notificação Semanal de Feedbacks
 
 > Solução serverless desenvolvida em Google Apps Script para leitura, consolidação e disparo automático de relatórios semanais de feedbacks com layout HTML responsivo e botões de ação (CTAs).
 
